@@ -1,0 +1,5 @@
+Je travaille actuellement sur un nouveau jeu. Créé avec Godot, un moteur de jeu vidéo. 
+
+Godot utilise un langage qui lui est propre : "GDScript", similaire à Python. Ce projet permet 
+de m'exercer à nouveau sur la programmation orientée objet comme chaque élément du jeu est un
+nouvel objet
