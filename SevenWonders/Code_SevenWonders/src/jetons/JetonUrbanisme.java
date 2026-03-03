@@ -1,0 +1,26 @@
+package jetons;
+
+import java.io.File;
+
+import functions.Affichage;
+import items.Player;
+
+public class JetonUrbanisme extends Jeton{
+
+    static String PATH = new File(System.getProperty("user.dir")).getParent().replace("\\", "/")+"/images/jetons/";
+
+    public JetonUrbanisme() {
+        this.image = Affichage.makeImageView("jetons/urbanisme.png");
+        this.smallImage = Affichage.makeImageView("jetons/urbanismep.png");
+    }
+
+    @Override
+    public void PlayJeton(Player p) {
+        p.nbr_pieces += 6;
+        p.jetons[9] = true;
+        if (p.jetons[5]){
+            p.points += 3;
+        }
+        p.playersJetons.add(this);
+    }
+}

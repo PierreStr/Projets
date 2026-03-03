@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": [
+        "Code_SevenWonders\\src",
+        "Code_SevenWonders\\src\\resources"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\CodeInformatique\\Java\\javafx\\openjfx-22_windows-x64_bin-sdk\\javafx-sdk-22\\lib\\javafx.controls.jar",
+        "c:\\CodeInformatique\\Java\\javafx\\openjfx-22_windows-x64_bin-sdk\\javafx-sdk-22\\lib\\javafx.fxml.jar",
+        "c:\\CodeInformatique\\Java\\javafx\\openjfx-22_windows-x64_bin-sdk\\javafx-sdk-22\\lib\\javafx-swt.jar",
+        "c:\\CodeInformatique\\Java\\javafx\\openjfx-22_windows-x64_bin-sdk\\javafx-sdk-22\\lib\\javafx.media.jar",
+        "c:\\CodeInformatique\\Java\\javafx\\openjfx-22_windows-x64_bin-sdk\\javafx-sdk-22\\lib\\javafx.swing.jar",
+        "c:\\CodeInformatique\\Java\\javafx\\openjfx-22_windows-x64_bin-sdk\\javafx-sdk-22\\lib\\javafx.graphics.jar",
+        "c:\\CodeInformatique\\Java\\javafx\\openjfx-22_windows-x64_bin-sdk\\javafx-sdk-22\\lib\\javafx.web.jar",
+        "c:\\CodeInformatique\\Java\\javafx\\openjfx-22_windows-x64_bin-sdk\\javafx-sdk-22\\lib\\javafx.base.jar"
+    ]
+}
+
