@@ -15,9 +15,9 @@ Ci-dessous un descriptif de chacun d'entre eux (classés par ordre chronologique
 - ### Mémoire_Straet_Pierre_25
   Il s'agit de mon ***mémoire de fin de Master***. Celui-ci traite des pavages du grillage triangulaire par des losanges. Basé sur les deux premiers chapitres de *lectures on random lozenge tilings*, ouvrage de Vadim Gorin, j'y apporte détails et reformalisations ainsi qu'une correction. Ce mémoire aborde donc la pavabilité d'un domaine du grillage triangulaire et le dénombrement des pavages possibles, en terminant par le cas particulier de l'hexagone AxBxC et la formule de MacMahon.
 - ### Projet fin formation
-  Projet que j'ai réalisé dans le cadre de ma formation en data analyse chez TechnofututTIC. Dans ce dépôt vous pourrez trouvez les scripts de chargement, nettoyage, enrichissement, modélisation et enfin export de la donnée. Le projet se porte sur les accidents sur le réseau routier belge impliquant des lésions corporelles entre 2017 et 2024. Des notebooks sont également rédigés dans le but de faciliter la lecture du projet. 
+  Projet que j'ai réalisé dans le cadre de ma formation en data analyse chez TechnofututTIC. Dans ce dépôt vous pourrez trouver les scripts de chargement, nettoyage, enrichissement, modélisation et enfin export de la donnée. Le projet se porte sur les accidents du réseau routier belge impliquant des lésions corporelles entre 2017 et 2024. Des notebooks sont également rédigés dans le but de faciliter la lecture du projet. 
   
-  Remarques : j'ai décidé de ne pas publier les ressources utilisées afin de ne pas encombrer le dépôt. De plus, la partie report sur PowerBI n'étant pas ce sur quoi je me suis le plus attardé (à l'inverse de l'implémentation) par manque de temps, les résultats n'apparaissent pas également.
+  Remarque : j'ai décidé de ne pas publier les ressources utilisées afin de ne pas encombrer le dépôt. De plus, n'ayant pas su m'attarder sur la partie report avec PowerBI (à l'inverse de l'implémentation), les résultats n'apparaissent pas également.
 
 
 ## Cadre plus personnel
